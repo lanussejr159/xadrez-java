@@ -1,4 +1,4 @@
-package boardgme;
+package boardgame;
 
 public class Position {
 
